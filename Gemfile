@@ -29,7 +29,7 @@ gem 'redis-rack-cache'
 ##--- gems for server & infra configuration ---##
 gem 'dotenv-rails'
 gem 'foreman'
-gem 'puma', '~> 3.0'
+gem 'puma', '~> 4.3'
 gem 'webpacker'
 
 ##--- gems for authentication & authorization ---##
