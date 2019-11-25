@@ -236,7 +236,7 @@ GEM
       mini_magick (>= 4.9.5, < 5)
       ruby-vips (>= 2.0.13, < 3)
     inflecto (0.0.2)
-    jaro_winkler (1.5.3)
+    jaro_winkler (1.5.4)
     jbuilder (2.9.1)
       activesupport (>= 4.2.0)
     jmespath (1.4.0)
@@ -295,7 +295,7 @@ GEM
     nokogiri (1.10.5)
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
-    parallel (1.18.0)
+    parallel (1.19.1)
     parser (2.6.5.0)
       ast (~> 2.4.0)
     pg (1.1.4)
@@ -354,7 +354,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-support (3.9.0)
-    rubocop (0.73.0)
+    rubocop (0.76.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
       parser (>= 2.6)
@@ -491,7 +491,7 @@ DEPENDENCIES
   redis-rack-cache
   responders
   rspec-rails!
-  rubocop (~> 0.73.0)
+  rubocop (~> 0.76.0)
   rubocop-performance
   rubocop-rails
   rubocop-rspec
