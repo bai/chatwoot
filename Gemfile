@@ -41,7 +41,7 @@ gem 'pundit'
 
 ##--- gems for pubsub service ---##
 # TODO investigate and remove this gem
-gem 'wisper', '2.0.0'
+gem 'wisper', '2.0.1'
 
 ##--- gems for reporting ---##
 gem 'nightfury'
